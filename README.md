@@ -19,6 +19,15 @@ Several machine learning approaches were utilized to determine if machine learni
  
  ● Can machine learning be used to predict whether weather conditions will be favorable on a certain day?
 
+## Goals
+ ● Identify weather patterns outside the regional norm in Europe.
+
+ ● Determine if unusual weather patterns are increasing.
+ 
+ ● Generate possibilities for future weather conditions over the next 25 to 50 years based on current trends.
+
+ ● Determine the safest places for people to live in Europe over the next 25 to 50 years.
+
 ## Data
 ● Dataset-weather-prediction-dataset-processed - The data was collected by the European Climate Assessment & Data Set (ECA&D) and includes weather observations such as temperature, wind speed, snow, global radiation, and more from 18 different weather stations across Europe for the years of 1960 - 2022. 
 
