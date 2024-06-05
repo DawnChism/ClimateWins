@@ -68,6 +68,10 @@ The project files are divided between the following folders:
 
 ● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
 
+● ClimateWins Predicting Future Weather Presentation: Slides for predicting weather presentation.
+
+● Visualizations: Random Forest visualizations. 
+
 ## Resources
 ● The weather data is collected by the European Climate Assessment & Data Set project. https://www.ecad.eu/
 
