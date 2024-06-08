@@ -68,7 +68,7 @@ The project files are divided between the following folders:
 
 ● 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
 
-● ClimateWins Predicting Future Weather Presentation: Slides for predicting weather presentation.
+● ClimateWins Predicting Future Weather Presentation: Slides for predicting weather presentation. Link to Video Presentation https://www.canva.com/design/DAGGD8elGGA/eQFM--_DYAcXdF6G-d1Dow/view?utm_content=DAGGD8elGGA&utm_campaign=designshare&utm_medium=link&utm_source=recording_view
 
 ● Visualizations: Random Forest visualizations. 
 
